@@ -1,7 +1,7 @@
 # Emc0=1
 <img width="1408" height="768" alt="1000207224" src="https://github.com/user-attachments/assets/491aea7e-06d0-4fc0-a8ea-b0d8429c7957" />
 
-仓库标题，实际0和1之间的符号其实是=，不知道为啥系统不给予我修改为=
+仓库标题，实际0和1之间的符号其实是=，不知道为啥GitHub不给予我修改为=
 
 一个正在持续更新的Minecraft模组，我们为游戏重新添加了其他的物品
 
